@@ -1,0 +1,6 @@
+mainprefix: '$'
+token: 'NzQ0MzIzMDI2NjMxMzkzMzIz.Xzhi1g.QtWbfiJD1hSeL78WmYwfGeP_iKE'
+status: ''
+dpunishment: 'roleremove'  ## ITS WILL GIVES ERROR IF THIS WAS EMPTY!
+### dpunishment >> DEFALUT punishment  
+### [punishment List:] 'roleremove', 'ban', 'kick'
